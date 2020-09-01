@@ -1,0 +1,37 @@
+.Loan-section{
+    height: 120vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.Loan-section-1 img{
+    position: absolute;
+    left: 60px;
+    top: 325vh;
+    width: 41vw;
+    height: 110vh;
+}
+.Loan-section-2{
+    padding: 100px  0 0 0 ;
+}
+.Loan-section-2 h1{
+    color: #1c263f;
+    font-family: "Heebo", Sans-serif;
+    font-size: 2.7rem;
+    font-weight: 900;
+    text-transform: capitalize;
+    line-height: 1.1em;
+    
+}
+.Loan-section-2 p{
+    padding: 10px  0 0 0;
+    color: #1c263f;
+    font-family: "Heebo", Sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.Loan-section-2 div:first-child{
+    padding-bottom: 20px ;
+}
+.Loan-section-2 p:first-child{
+    padding-top: 40px;
+}

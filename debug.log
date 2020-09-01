@@ -1,0 +1,35 @@
+[0821/233006.516:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0821/233008.004:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0821/233007.998:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff8e376ed20 of 12 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0821/233008.004:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0821/233007.261:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0821/233008.004:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0821/233006.540:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0821/233006.755:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0821/233006.540:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0821/233008.005:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0821/233006.756:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0821/233006.516:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0821/233006.977:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0821/233008.005:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0821/233006.818:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0821/233008.005:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0821/233008.005:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0821/233008.005:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0821/233008.005:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0821/233008.005:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0821/233008.005:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0821/233008.005:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0821/233008.005:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0821/233008.005:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0821/233008.005:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0821/233008.005:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0821/233008.005:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0822/192455.079:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/192455.079:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/192455.438:ERROR:exception_snapshot_win.cc(98)] thread ID 8492 not found in process
+[0822/192455.438:ERROR:exception_snapshot_win.cc(98)] thread ID 5800 not found in process
+[0825/100610.251:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0825/100610.767:ERROR:exception_snapshot_win.cc(98)] thread ID 10704 not found in process
+[0825/213332.166:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0825/213332.547:ERROR:exception_snapshot_win.cc(98)] thread ID 10664 not found in process
